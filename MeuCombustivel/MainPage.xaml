@@ -8,10 +8,10 @@
             Padding="30,0"
             Spacing="25">
             <Image
-                Source="dotnet_bot.png"
+                Source="carro.png"
                 HeightRequest="185"
                 Aspect="AspectFit"
-                SemanticProperties.Description="dot net bot in a submarine number ten" />
+                SemanticProperties.Description="" />
 
             <Label Text="Preço do Etanol:" />
             <Entry x:Name="txt_etanol" Placeholder="R$" />

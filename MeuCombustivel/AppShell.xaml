@@ -7,7 +7,7 @@
     Title="MeuCombustivel">
 
     <ShellContent
-        Title="Home"
+        Title="Meu Combustível"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
